@@ -12,4 +12,4 @@
 const TRIM_REGX = /^\s+|\s+$/g
 ```
 
-[测试用例](./index.html)
+[测试用例](./index.test.html)
